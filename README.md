@@ -107,3 +107,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,14,4&height=120&section=footer" alt="footer" />
 </p>
+
+<!-- Updated Profile README trigger -->
